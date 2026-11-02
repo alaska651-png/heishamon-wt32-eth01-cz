@@ -1,0 +1,23 @@
+name: Protocol tests
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  protocol:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Compile the 20 protocol assertions
+        run: g++ -std=c++20 -Wall -Wextra -Werror -fsyntax-only firmware/HeishaMon/cz_protocol_tests.cpp
+      - name: Verify firmware and source integrity
+        shell: pwsh
+        run: ./scripts/verify.ps1

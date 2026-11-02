@@ -1,0 +1,14 @@
+[
+  {
+    "file": "HeishaMon-v2.0-WT32-ETH01-CZ-test1-factory.bin",
+    "bytes": 4194304,
+    "sha256": "5fd753e3a681432cdd189232a1d17a3f745775ee1d2f37255aba60292559408c",
+    "md5": "9c7db6159624e2d33cfb3844c33d3592"
+  },
+  {
+    "file": "HeishaMon-v2.0-WT32-ETH01-CZ-test1-ota.bin",
+    "bytes": 1271568,
+    "sha256": "eb191a209d1f26209bd73fbf29168e077ccf8eb082d2302a87437784032c0011",
+    "md5": "824de9a49393122d9641795386a280d1"
+  }
+]

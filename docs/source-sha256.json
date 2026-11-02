@@ -1,0 +1,112 @@
+[
+  {
+    "file": "board_config.h",
+    "bytes": 1468,
+    "sha256": "6b2779d1af76eeba5b5ccc40a4a913958f0d7c7e4c15cd119f1c8e514bc5f4fd"
+  },
+  {
+    "file": "commands.cpp",
+    "bytes": 23200,
+    "sha256": "3f59478ce491c3b72f58407a5a2c287cf21e83ba89b0c967b9df7ae61f2bca1f"
+  },
+  {
+    "file": "commands.h",
+    "bytes": 7016,
+    "sha256": "da29327289e6304d939caf4ae7d1d7defeda957b69554d27d8aa04ff5cc7ef41"
+  },
+  {
+    "file": "cz_protocol_tests.cpp",
+    "bytes": 3764,
+    "sha256": "4a033b0e6f51c1e0235b498118c9d482c84645a19493306d72d88b33a8389c99"
+  },
+  {
+    "file": "cz_protocol.h",
+    "bytes": 2558,
+    "sha256": "7fa455a470082e52a38a7e3c7f0919f1a5ac1ace3f664e9c42ca6a22828bc261"
+  },
+  {
+    "file": "dallas.cpp",
+    "bytes": 5345,
+    "sha256": "3568bf9e24a50596735ed43c88c30e0e7eb4e9fc857b1ac19daf6ef7e2bb96a8"
+  },
+  {
+    "file": "dallas.h",
+    "bytes": 635,
+    "sha256": "1a0b084aab322bdcc29a26199f4774e40e2d5eeb807499614fdde2fced5362a8"
+  },
+  {
+    "file": "decode.cpp",
+    "bytes": 6588,
+    "sha256": "557a455ee37f8c53209368bc6a5cfe1edf2bd9ca424338ec55aa35b0b4a215d3"
+  },
+  {
+    "file": "decode.h",
+    "bytes": 17814,
+    "sha256": "eb70f2cf0c97757ea35866deaf063c6ced1d5259d9b28a5597a679deb49a8400"
+  },
+  {
+    "file": "gpio.cpp",
+    "bytes": 180,
+    "sha256": "30877716ed84d2c183cfcb1f33eb87bc2d191aa13c4b899ec9b9480636902fca"
+  },
+  {
+    "file": "gpio.h",
+    "bytes": 229,
+    "sha256": "aa3537181ba51e458989e05c88790d494b3372a13226c13da84f522c639e6f51"
+  },
+  {
+    "file": "HeishaMon.ino",
+    "bytes": 27506,
+    "sha256": "d8e88f4bd4b45da9b21ea5bf05f4cc9a01d4d4766384e903bc60e1d5ce880e64"
+  },
+  {
+    "file": "htmlcode.h",
+    "bytes": 41239,
+    "sha256": "7319f9c1269a3ff7a13ffad4b71931382f486d035dea63d110f4cd238a4db552"
+  },
+  {
+    "file": "s0.cpp",
+    "bytes": 7128,
+    "sha256": "1c56b8555cc72fc5250381d9ef6edc2a467ed1dc283f49fbb169b788a9ed1f58"
+  },
+  {
+    "file": "s0.h",
+    "bytes": 927,
+    "sha256": "33e321f157f69830c4c0d15130be0499d91c7b35e609788398bae7d098bd3db7"
+  },
+  {
+    "file": "smartcontrol.cpp",
+    "bytes": 3001,
+    "sha256": "9d33a00c6f174244eccf50fdc8fd79e361a6185f87ef5facdeb3ac1cad7f1056"
+  },
+  {
+    "file": "smartcontrol.h",
+    "bytes": 871,
+    "sha256": "4e8816c9e9a7ddfa555dca31b1f4861b3b04c34fd9005612c0a0c4d2835da5e5"
+  },
+  {
+    "file": "storage.cpp",
+    "bytes": 3112,
+    "sha256": "a2bded7ed758bccf25ae4d36def9a69e1f328c58dc82f8dc0a26b17d33fa5ff3"
+  },
+  {
+    "file": "storage.h",
+    "bytes": 570,
+    "sha256": "e4421b51c94c07a9bb6e2baf8a5b6d49e31d844a65ba2186a31f8157eb439192"
+  },
+  {
+    "file": "version.h",
+    "bytes": 66,
+    "sha256": "c23fc5b3a8b5f5ccab2ca16561f12ff19f25035fc8414540c88c9c49d07c9d18"
+  },
+  {
+    "file": "webfunctions.cpp",
+    "bytes": 49885,
+    "sha256": "389bbbf5551326ab374c100f9ffa57aaed82c35ff5d3c59361e33e1cef9e4ac5"
+  },
+  {
+    "file": "webfunctions.h",
+    "bytes": 2806,
+    "sha256": "c5877ce8af1370954d5603eb11e5e452ba7eb445133761927d02f782dae15472"
+  }
+]

@@ -1,0 +1,15 @@
+.tools/
+build/
+firmware/**/build/
+.codex*/
+backups/
+local/
+.env
+.env.*
+config.json
+secrets.yaml
+secrets.yml
+*.log
+*.elf
+*.map
+dist/*.zip
