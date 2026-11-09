@@ -1,3 +1,4 @@
+<img width="3072" height="4096" alt="MVIMG_20261108_234809" src="https://github.com/user-attachments/assets/9b4f6282-c32d-4974-a4c7-9e394125bf6a" />
 # HeishaMon per WT32-ETH01 con Ethernet e CZ-TAW1
 
 Porting sperimentale di **HeishaMon v2.0** per la WT32-ETH01 classica
